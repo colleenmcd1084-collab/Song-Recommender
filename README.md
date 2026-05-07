@@ -7,8 +7,7 @@ A Streamlit web app that recommends similar songs based on audio features from t
 
 ## 🚀 Live Demo
 
-> **[Click here to try the app →](https://your-app-name.streamlit.app)**
-> *(Replace this link with your Streamlit Cloud URL after deployment)*
+https://song-recommender-app.streamlit.app/ 
 
 ---
 
