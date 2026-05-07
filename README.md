@@ -1,7 +1,7 @@
 # 🎵 Song Similarity Recommender
 ### Final Project — AI/ML Decision Tool | Applied Machine Learning | Villanova University
 
-A Streamlit web app that recommends similar songs based on audio features from the Spotify Tracks Dataset. Type in any song name and instantly get the top matches with album art, similarity scores, and plain-English explanations of *why* they sound alike.
+A Streamlit web app that recommends similar songs based on audio features from the Spotify Tracks Dataset. Type in any song name and instantly get the top matches with album art, similarity scores, and brief explanations of *why* they sound alike.
 
 ---
 
