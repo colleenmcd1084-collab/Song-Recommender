@@ -79,15 +79,13 @@ Then open `http://localhost:8501` in your browser.
 ## ✨ App Features
 
 - 🔍 Fuzzy search — typo-tolerant with suggestions
-- 🖼️ Album art — fetched live from the iTunes API (no key needed)
+- 🖼️ Album art — fetched live from the iTunes API
 - 🎯 Similarity score — percentage match per recommendation
 - 💬 Unique AI explanations — personalized reasoning per song
 - 📊 Feature comparison table — progress bars comparing input vs top match
 - 🎚️ Adjustable results — slider for 3–10 recommendations
 
 ---
-
-## 👥 Team
 
 > Add your team members here
 
